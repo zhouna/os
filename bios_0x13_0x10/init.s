@@ -1,0 +1,3 @@
+org 0x90000
+
+times 512*3 db 0xaa
